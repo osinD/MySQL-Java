@@ -5,5 +5,5 @@ Implementacja prostej bazy danych w Java
 - Następnie wpełniam  table 
 - wysyłam zapytaniado bazy danych i wświetlam wyniki na konsoli
 - Zmieniam zawartości tabel i rekordów w tabelach
--Program łączy się z bazą danych MySql
--Wszystkie działania są opisane w komentarzach programu
+- Program łączy się z bazą danych MySql
+- Wszystkie działania są opisane w komentarzach programu
